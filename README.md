@@ -84,7 +84,7 @@
 - The outside is kind of scary... let's just not talk about it, okay?
 
 ## The Plan
-### SOON<sup>tm<//sup>
+### SOON<sup>tm</sup>
 
 ## Community
 ### Voice contributions:
@@ -131,7 +131,7 @@
 - Sol D. Mars
 - SotirisGalanos
 ### Art contributions
-- SOON<sup>tm<//sup>
+- SOON<sup>tm</sup>
 
 ## Tools used
 ### Lime's software
