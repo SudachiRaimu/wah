@@ -1,5 +1,5 @@
 # Wah~ndering Takos | _a mostly cozy takodachi simulator_
-<!-- ![an image of the void]() -->
+<!-- ![placeholder image]() -->
 
 ## Info:
 ### About the game:
@@ -8,16 +8,17 @@
 - Platforms: **Web, Windows, Linux, ~~Handhelds~~**
 - Genre: **Simulation**
 >
-- Design Revision: **August 30, 2026**
+- Design Revision: **September 7, 2026**
 - Current Release: **0.21 - Tentacult, unite!**
 - Play/Download it here: [**wah~**](https://sudachi-raimu.itch.io/wah)
 >
-- Next Release: **0.3 - The Void** _(target date: September 21, 2026)_
+- Next Release: **0.3 - The Void** _(target date: September 2026)_
 ### About the project:
-- This game was born from some tests for another game but ended up becoming its own thing. Wah~ndering takos is about simulating entities' behaviors and needs, while the player navigates around and interacts with them and the environment, the aim is to have natural interactions and dynamic events happening around the player, which the player can take part in or simply enjoy what's happening. there are also many references and hidden lore sprinkled around the game world that can be discovered for those who like to poke around more.
-- Why involve hololive? It's a motivator for me. My first experience with Vtubers was in 2020 by watching clips of Hololive Myth, and 2020 was such a bad year for mental health, watching them really helped me get through it. That's something that stuck with me. Two weeks before Gura's graduation I was gifted a membership from the community, this account was created a few days after the graduation as my gift to the community.
+<!-- ![early stages of development]() -->
+- This project was born from experimenting with entity simulation for an [upcoming hololive fan game](https://github.com/SudachiRaimu/myth) which turned out to be very fun on it's own, so Wah~ndering takos is about simulating entities' behaviors and needs, while the player navigates around and interacts with them and the environment, the aim is to have natural interactions and dynamic events happening around the player, which the player can take part in or simply enjoy what's happening. There will also be many references and hidden lore sprinkled around the game world that can be discovered for those who like to poke around more.
+- Why a Hololive game as my first public work? They motivate me. My first experience with Vtubers was in 2020 by watching clips of Hololive Myth, and 2020 was such a bad year for mental health, watching them really helped me get through it and that's something that stuck with me. Then two weeks before Gura's graduation I was gifted a membership from the community, which I cherished very much. This account was created a few days after the graduation as my gift to the community.
 ### About me:
-- I'm from 🇧🇷Brazil, and I go by the name Sudachi Raimu! Why? Well I really like Japan, sour fruits, and the color green, but also my real last name is 'Lima' which translates to lime~ So yeah, my name is citrus-fruit citrus-fruit, isn't it very vtuber-coded? That's why. Anyways, you can call me Lime~ I've been into game dev from an early age, inspired by the flash games era of the internet, but I've always hit roadblocks every time I tried to do it... I won't bother you with my failures, though, what matters is that I overcome most of them and after trying many many engines, I have finally settled on Godot, since it provided all the tools I need in an ultra-compact format (and it's free) and for over a year now, I've been working on this very project in my free time, wich isn't a lot, so be aware that progress is intermittent around here... And if you're reading my code, just know that I learned it from coding microcontrollers, so you may see an influence from hardware-oriented code here...
+- I'm from 🇧🇷Brazil, and I go by the name Sudachi Raimu! Why? Well I really like Japan, sour fruits, and the color green, but also my real last name is 'Lima' which translates to lime~ So yeah, my name is citrus-fruit citrus-fruit, isn't it very vtuber-coded? That's why. Anyways, you can call me Lime~ I've been into game dev from an early age, inspired by the flash games era of the internet, but I've always hit roadblocks every time I tried to do it... I won't bother you with my failures, though, what matters is that I overcome most of them now and after trying many many engines, I have finally settled on Godot, since it provided all the tools I need in an ultra-light format (and it's free) and for over a year now, I've been working on this very project in my free time.
 
 ## Roadmap:
 - [x] 0.1 - **There was nothing, then Wah~** (basic world, models and entity AI) **_released_**
@@ -68,7 +69,7 @@
 <!-- ![takodachis playing around]() -->
 - Who hasn't ever wished they didn't have to grow up? This is where everyone brings back their inner child and just enjoys the current moment without a single worry.
 ### The Pond
-<!-- ![a takodachi pov of the pond]() -->
+<!-- ![the pond]() -->
 - Just behind the studio, you can find the pond with a dock that leads to a pedal boat. To the side there's a nice tree with a picnic blanket underneath. There's a stream coming from the side, which fills the pond and overflows on the opposite side, the stream passes under a small bridge and goes out into the void. Some spots are filled with cattails and water lilies. Tiny takos like to spend time in the safety of the pond, the way they move resemble frogs.
 ### The Giant Tree
 <!-- ![an old looking tree]() -->
@@ -84,7 +85,8 @@
 - The outside is kind of scary... let's just not talk about it, okay?
 
 ## The Plan
-### SOON<sup>tm</sup>
+- V0.3: Building the world
+  - SOON<sup>tm</sup>
 
 ## Community
 ### Voice contributions:
