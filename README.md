@@ -15,12 +15,13 @@
 - [ ] 0.4 - **The Oshi** (new -myth- models) **_target date: TBD_**
 - [ ] 0.5 - **The Sim** (talents & takos needs simulation) **_target date: TBD_**
 - [ ] 0.6 - **Tasks** (world activities & interactions) **_target date: TBD_**
-- [ ] 0.7 - **Talks** (talents chat interactions) **_target date: TBD_**
+- [ ] 0.7 - **Talks** (talent conversations) **_target date: TBD_**
 - [ ] 0.8 - **We Are Handheld** (mobile/android version) **_target date: TBD_**
 - [ ] 0.9 - **Final touches** (tweaks and optimizations) **_target date: TBD_**
 - [ ] 1.0 - **Final release** **_target date: 2027_**
 ## Core Vision:
 <!-- ![a glimpse of the world]() -->
+- Wander around, play and interact with Hololive talents in this mythical world hosted by Ninomae Ina'nis or just relax and enjoy a seemingly alive and peaceful(?) world.
 ## Core Systems:
 <!-- ![talents interacting]() -->
 - SOON<sup>tm</sup>
