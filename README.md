@@ -7,17 +7,17 @@
 - Platforms: **Web, Windows, Linux, ~~Handhelds~~**
 - Current Release: **0.21 - Tentacult, unite!** (play/download: [**wah~**](https://sudachi-raimu.itch.io/wah))
 - Next Release: **0.3 - The Void** _(target date: November 2026)_
-- Design Revision: **October 11, 2026**
+- Design Revision: **October 15, 2026**
 ## Roadmap:
 - [x] 0.1 - **There was nothing, then Wah~** (basic world, models and entity AI) **_RELEASED_**
 - [x] 0.2 - **Tentacult, unite!** (sound, graphics, menu & localization) **_RELEASED_**
-- [ ] 0.3 - **The Void** (new world model, open-sourced) **_target date: November 2026_**
+- [ ] 0.3 - **The Void** (new world model, handheld version, open-sourced) **_target date: November 2026_**
 - [ ] 0.4 - **The Oshi** (new -myth- models) **_target date: TBD_**
 - [ ] 0.5 - **The Sim** (talents & takos needs simulation) **_target date: TBD_**
 - [ ] 0.6 - **Tasks** (world activities & interactions) **_target date: TBD_**
 - [ ] 0.7 - **Talks** (talent conversations) **_target date: TBD_**
-- [ ] 0.8 - **We Are Handheld** (mobile/android version) **_target date: TBD_**
-- [ ] 0.9 - **Final touches** (tweaks and optimizations) **_target date: TBD_**
+- [ ] 0.8 - **Tangents** (new unplanned features can be added, but no promises) **_target date: TBD_**
+- [ ] 0.9 - **Tweaks** (tweaks and optimizations) **_target date: TBD_**
 - [ ] 1.0 - **Final release** **_target date: 2027_**
 ## Core Vision:
 <!-- ![a glimpse of the world]() -->
