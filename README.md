@@ -143,12 +143,15 @@
 
 ## Tools used
 ### Lime's software:
-- Fedora Linux 44 (Workstation Edition)
-- Godot 4.8 (Latest, GDScript)
-- Audacity 3.7.9
-- Blender 5.2.2
-- Krita 6.0.2.1
-- Anytype 0.57.4
+- Fedora Linux 44 (workstation edition)
+- Blender 5.2.2 (model & animations)
+- Godot 4.8 (game engine, GDScript)
+- Anytype 0.57.4 (design document)
+- Audacity 3.7.9 (audio editing)
+- Krita 6.0.2.1 (art & textures)
+- Gitnuro 2.0 (version control)
+- OBS Studio 32.1.1 (streaming)
+- SnekStudio 0.1.7 (vtuber model)
 ### Lime's hardware:
 - Acer Nitro ANV15-51 Gaming Laptop
 - Intel Core i7-13620H 13th Gen CPU
