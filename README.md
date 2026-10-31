@@ -29,13 +29,13 @@
 <!-- i could really go for some cookies right now -->
 - Myth: Hololive talents engage in activities and conversations, drawing, playing, and living a life of their own.
 - Takodachi: With the help of Tentacult (not a cult!) voicing the creatures of the void, takodachis come in many shapes and forms. Takos are mostly independent, wahndering around on their own, but they will ask Ina for cookies when hungry.
-### World Interactions
-<!-- touch this, touch that -->
-- There are many activities spread around the void, like the pond where you have the pedal boat and, of course, a fishing minigame.
 ### Talent Interactions
 <!-- can't touch this -->
 - Talents will behave according to their own personalities, and this defines what they like to do in the void.
 - You can play and chat with talents to your heart's content~ but if you annoy Ina too much, she may get the crowbar, yeet you far away, or squish you into oblivion.
+### World Interactions
+<!-- touch this, touch that -->
+- There are many activities spread around the void, like the pond where you have the pedal boat and, of course, a fishing minigame.
 <!-- future tangents can be added here -->
 ## World
 ### The Void
@@ -165,12 +165,12 @@
 - All assets (textures, sounds, code, art, etc.) are being made exclusively for this project, except for the font: [Nosutaru-dotMPlusH-10-Regular](https://logotype.jp/nosutaru-dot.html)
 ### License:
 - This project (including source code, assets, art, sound, and documentation) is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-In summary, if you want to derive from this work:
-- Must credit the original creator: [Sudachi Raimu](https://x.com/SudachiRaimu);
-- If using any of the community contributions (voice, art or code), credit must be given to the respective contributors;
-- Only non-commercial use is permitted. Any form of commercial advantage or monetary compensation is not permitted under these terms;
-- Adaptations must be shared under the same terms;
-- This software is provided "as-is", without warranties.
+- In summary, if you want to derive from this work:
+  - Must credit the original creator: [Sudachi Raimu](https://x.com/SudachiRaimu);
+  - If using any of the community contributions (voice, art or code), credit must be given to the respective contributors;
+  - Only non-commercial use is permitted. Any form of commercial advantage or monetary compensation is not permitted under these terms;
+  - Adaptations must be shared under the same terms;
+  - This software is provided "as-is", without warranties.
 ## Extras
 ### About the project:
 <!-- ![early stages of development]() -->
