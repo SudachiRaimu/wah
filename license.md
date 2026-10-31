@@ -4,6 +4,7 @@ This Project (including source code, assets, art, sound and documentation) is li
 
 In summary, this means:
 - Credit must be given to the creator: Sudachi Raimu (https://x.com/SudachiRaimu);
+- If using any of the community contributions (voice, art or code), credit must be given to the respective contributors;
 - Only noncommercial use is permitted. Any form of commercial advantage or monetary compensation is not permitted under these terms;
 - Adaptations must be shared under the same terms;
 - This software is provided "as-is", without warranties;
