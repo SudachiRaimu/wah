@@ -7,7 +7,7 @@
 - Platforms: **Web, Windows, Linux, Handhelds**
 - Current Release: **0.21 - Tentacult, unite!** (play/download: [**wah~**](https://sudachi-raimu.itch.io/wah))
 - Next Release: **0.3 - The Void** _(target date: November 2026)_
-- Design Revision: **October 25, 2026**
+- Design Revision: **October 31, 2026**
 ## Roadmap:
 - [x] 0.1 - **There was nothing, then Wah~** (basic world, models and entity AI)
 - [x] 0.2 - **Tentacult, unite!** (sound, graphics, menu & localization)
@@ -28,14 +28,14 @@
 ### Entity Simulation
 <!-- i could really go for some cookies right now -->
 - Myth: Hololive talents engage in activities and conversations, drawing, playing, and living a life of their own.
-- Takodachi: With the help of Tentacult (not a cult!) voicing the creatures of the void, takodachis come in many shapes and forms. Some tend to group and spend time by the pond, while others just look for a nice shade to take a nap or enjoy some cookies. Takos are mostly independent, but they will ask Ina for cookies when hungry.
+- Takodachi: With the help of Tentacult (not a cult!) voicing the creatures of the void, takodachis come in many shapes and forms. Takos are mostly independent, wahndering around on their own, but they will ask Ina for cookies when hungry.
 ### World Interactions
 <!-- touch this, touch that -->
 - There are many activities spread around the void, like the pond where you have the pedal boat and, of course, a fishing minigame.
 ### Talent Interactions
 <!-- can't touch this -->
 - Talents will behave according to their own personalities, and this defines what they like to do in the void.
-- You can play and chat with talents to your heart's content, as long as you don't annoy them~ but if you annoy Ina too much, she may get the crowbar, yeet you far away, or squish you into oblivion.
+- You can play and chat with talents to your heart's content~ but if you annoy Ina too much, she may get the crowbar, yeet you far away, or squish you into oblivion.
 <!-- future tangents can be added here -->
 ## World
 ### The Void
@@ -61,7 +61,7 @@
 - Just behind the studio, you can find the pond with a dock that leads to a pedal boat. To the side there's a nice tree with a picnic blanket underneath. There's a stream coming from the side, which fills the pond and overflows on the opposite side, going into the void.
 ### The Giant Tree
 <!-- ![an old looking tree]() -->
-- A very big tree, with just a few leaves and flowers left. There are colored lamps hanging on different branches, some of the lights are out.
+- A very big tree, with just a few leaves and flowers left. There are colored lamps hanging on different branches, and some of the lights are out.
 ### The Maze Garden
 <!-- ![a towering and difficult maze... for takos]() -->
 - A flower maze garden that zigs and zags.
@@ -167,13 +167,15 @@
 - This project (including source code, assets, art, sound, and documentation) is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 In summary, if you want to derive from this work:
 - Must credit the original creator: [Sudachi Raimu](https://x.com/SudachiRaimu);
-- Only noncommercial use is permitted. Any form of commercial advantage or monetary compensation is not permitted under these terms;
+- If using any of the community contributions (voice, art or code), credit must be given to the respective contributors;
+- Only non-commercial use is permitted. Any form of commercial advantage or monetary compensation is not permitted under these terms;
 - Adaptations must be shared under the same terms;
 - This software is provided "as-is", without warranties.
 ## Extras
 ### About the project:
-<!-- ![how did we get here?]() -->
-- SOON<sup>tm</sup>
+<!-- ![early stages of development]() -->
+- This project was born from experimenting with entity simulation for an [upcoming Hololive fan game](https://github.com/SudachiRaimu/myth) which turned out to be very fun on its own. Wah~ndering takos is about simulating entities' behaviors and needs, while the player navigates around and interacts with them and the environment, the aim is to have natural interactions and dynamic events happening around the player, which the player can take part in or simply enjoy the view. There will also be many references and hidden lore sprinkled around the game world that can be discovered for those who like to poke around more.
+- Why a Hololive game as my first public work? They motivate me. My first experience with Vtubers was in 2020 by watching clips of Hololive Myth, and 2020 was such a bad year for mental health, watching them really helped me get through it and that's something that stuck with me. And then, two weeks before Gura's graduation I was gifted a membership for the first time, I created this account a few days after as a way to thank the community and celebrate the talents for the good times they provide me with~
 ### About me:
 <!-- ![how did *i* get here?]() -->
-- SOON<sup>tm</sup>
+- I'm from 🇧🇷Brazil, and I go by the name Sudachi Raimu! Why? Well I really like Japan, sour fruits, and the color green, but also my real last name is 'Lima' which translates to lime~ So yeah, my nickname is citrus-fruit citrus-fruit, isn't it very vtuber-coded? That's why. Anyways, you can call me Lime~ I've been into game dev from an early age, inspired by the flash games era of the internet, but I've always hit roadblocks every time I tried to do it... I won't bother you with my failures, though, what matters is that I overcome most of them now and after trying many, many engines, I have finally settled on Godot, since it provided all the tools I need in an ultra-light format (and it's free) and for over a year now, I've been working on this very project in my free time.
